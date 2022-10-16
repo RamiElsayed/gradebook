@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "/vRo+YXFAp9z9G/850L5Kn8Czq1L8NgCugKwmpLKUBn8icfRCuFRIdiHR83Cx1hEhJ+g3uRIkNX4luQje7p0pw==",
+  "dgSpecHash": "Ohs27/ggW5/sW0/CTCav3JRZEk3TFbXzsGw1xpa95Cn1IDdXvzododtefTDGioaUmmfFsDlt6alMJHwJV+9eIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ramie\\gradebook\\src\\GradeBook\\GradeBook.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Dev\\Projects\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rami\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Rami\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Rami\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Rami\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

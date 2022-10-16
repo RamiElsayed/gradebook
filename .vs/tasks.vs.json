@@ -1,0 +1,25 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-gradebook",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-test",
+      "appliesTo": "test/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-gradebook",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-gradebook",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
