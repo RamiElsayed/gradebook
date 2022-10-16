@@ -13,20 +13,29 @@ namespace GradeBook
 
         public void AddGrade (double grade)
         {
-            grades.Add(grade);
+            if (grade <= 100 && grade >= 0)
+            {
+                grades.Add(grade);
+            }
+            else
+            {
+                Console.WriteLine("Invalid Grade");
+            }
         }
 
         public Statistics GetStatistics()
         {
-            var result = new Statistics();
-            result.High = double.MinValue;
-            result.Low = double.MaxValue;
-
-            foreach(var grade in grades)
+            var result = new Statistics
             {
-                result.High = Math.Max(grade, result.High);
-                result.Low = Math.Min(grade, result.Low);
-                result.Average += grade;
+                High = double.MinValue,
+                Low = double.MaxValue
+            };
+
+            for (int i = 0; i < grades.Count; i++)
+            {
+                result.High = Math.Max(grades[i], result.High);
+                result.Low = Math.Min(grades[i], result.Low);
+                result.Average += grades[i];
             }
             result.Average /= grades.Count;
 
