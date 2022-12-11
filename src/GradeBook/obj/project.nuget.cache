@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Ohs27/ggW5/sW0/CTCav3JRZEk3TFbXzsGw1xpa95Cn1IDdXvzododtefTDGioaUmmfFsDlt6alMJHwJV+9eIQ==",
+  "dgSpecHash": "H5r+EjPvFQndQD6FWVv5Lop8DOpgSCKs7KAhRTnwbfebxRLEk4vyREjDMy2D+RpZt+w2L71Gqqd25vCYQBq02g==",
   "success": true,
   "projectFilePath": "D:\\Dev\\Projects\\gradebook\\src\\GradeBook\\GradeBook.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Rami\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
-    "C:\\Users\\Rami\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\Rami\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Rami\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+    "C:\\Users\\Rami\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Rami\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Rami\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }
